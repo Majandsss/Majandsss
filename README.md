@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### Formação
 - Ciências Biológicas licenciatura - Universidade de Passo Fundo.
+- PPGCF mestranda em Ciências Fisiológicas - FURG/RS.
 
 ### Experiência profissional
 - Veterinária mundo animal;
@@ -36,11 +37,17 @@ Here are some ideas to get you started:
 ### Linguagens
 ![icone html](https://img.icons8.com/?size=50&id=7F3tKZpey25j&format=png&color=000000) ![icone css](https://img.icons8.com/?size=50&id=1045&format=png&color=000000) 
 
+![icone python]<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8c6a7dd3-2359-49a7-8f46-b1ab26d80ebd" />
+
+
+
 ### Contatos
 [![icone linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/majari-andressa-da-silva-068474195/)
 
 ### ⚡ Fun fact: .
-##### Tenho o total de 6 animais como pet: 
+##### Tenho o total de 5 animais como pet: 
 - 3 gatos 🐈🐈🐈;
 - 1 cachorro 🐕;
-- 2 ratos 🐀🐀.
+- 1 coelho 🐇.
+##### 🌟 Minhas estrelinhas:
+🌟 Pupu, Ash e Beu 🐀🐀🐀 🌟
