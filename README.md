@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Ela/dela.
 
 ### Linguagens
-![icone html](https://img.icons8.com/?size=50&id=7F3tKZpey25j&format=png&color=000000) ![icone css](https://img.icons8.com/?size=50&id=1045&format=png&color=000000) ![icone python](https://icons8.com.br/icons/set/python)
+![icone html](https://img.icons8.com/?size=50&id=7F3tKZpey25j&format=png&color=000000) ![icone css](https://img.icons8.com/?size=50&id=1045&format=png&color=000000) ![icone python](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3cc3e687-f81d-4b1d-905c-7711dc9ed8f6" />)
 
 
 
